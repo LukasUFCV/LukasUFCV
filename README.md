@@ -1,7 +1,7 @@
 # 👨‍💻 Lukas MAUFFRÉ
 
-🎓 **Bachelor Student @ ECE Paris**
-💼 **IT Apprentice @ UFCV – Information Systems Department (DSI)**
+🎓 **Bachelor Student @ ECE Paris**  
+💼 **IT Apprentice @ UFCV – Information Systems Department (DSI)**  
 📍 Paris, France
 
 ---
@@ -103,7 +103,7 @@ As an IT apprentice in the DSI, I work on:
 
 ## 📫 Contact
 
-📧 [lukasmauffre@icloud.com](mailto:lukasmauffre@icloud.com)
+📧 [lukasmauffre@icloud.com](mailto:lukasmauffre@icloud.com)  
 🔗 GitHub: [https://github.com/LukasMFR](https://github.com/LukasMFR)
 
 ---
